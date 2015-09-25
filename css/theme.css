@@ -1661,9 +1661,7 @@ td.visible-print{display:table-cell !important;}
 .radio-success input[type="radio"] + label::after{background-color:#5cb85c;}
 .radio-success input[type="radio"]:checked + label::before{border-color:#5cb85c;}
 .radio-success input[type="radio"]:checked + label::after{background-color:#5cb85c;}
-body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;padding-top:69px;}
-@media (max-width:736px){body{padding-top:50px;}
-}
+body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
 .ma-0{margin:0;}
 .pa-0{padding:0;}
 .mt-5{margin-top:5px;}
